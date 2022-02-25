@@ -22,3 +22,6 @@ for i in range(len(lis)):
     newLis.append(lis.pop(min))
 
 print(newLis)
+
+
+

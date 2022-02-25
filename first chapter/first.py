@@ -1,7 +1,4 @@
 
-from re import I
-
-
 print()
 
 # Binary search

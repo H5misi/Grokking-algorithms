@@ -1,6 +1,8 @@
 
 print()
 
+
+
 # Binary search
 
 lis = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
@@ -24,8 +26,6 @@ def binarySearch(lis, item, firstIndex, lastIndex):
 firstIndex = 0
 lastIndex = len(lis) - 1
 print(binarySearch(lis, item, firstIndex, lastIndex))
-
-
 
 
 

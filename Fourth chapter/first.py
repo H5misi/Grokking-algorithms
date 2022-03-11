@@ -1,18 +1,10 @@
 
 
-import re
-from time import sleep
-
-
 print()
 
 
 
-
-
-
-
-
+# Quick sort
 
 lis = [10, 1, 5, 7, 2, 6, 4, 9, 3, 8]
 

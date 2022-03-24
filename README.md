@@ -3,6 +3,6 @@
 **Every tasks is solved by Me**
 
 
-*README file is added using git bash*
+*README file was added using Git Bash*
 
 [LinkedIn profile](https://www.linkedin.com/in/hazem-alkhamisi-265aa31a7/)
